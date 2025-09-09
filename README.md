@@ -1,12 +1,15 @@
 
-💻 Project Title
+💻 Project Title: 
+
 Online Book Store 
 
 🎯 Purpose
 This project demonstrates the design, creation, and management of a relational database for a functional online book store. The primary purpose is to efficiently store, retrieve, and manage data related to books, customers, orders, and authors. The project aims to establish a robust and scalable backend for an e-commerce platform, enabling key business operations and analysis.
 
 🛠️ Tech Stack
-Database: SQL (e.g., MySQL, PostgreSQL, SQL Server)
+Database: 
+
+SQL (e.g., MySQL, PostgreSQL, SQL Server)
 Data Modeling: SQL queries for creating tables (CREATE TABLE), defining relationships (Primary Keys, Foreign Keys), and populating data (INSERT INTO).
 Data Manipulation & Querying: Advanced SQL queries for data retrieval, analysis, and reporting (e.g., JOINs, GROUP BY, HAVING, Subqueries).
 Documentation: Entity-Relationship Diagram (ERD) to visualize the database schema.
